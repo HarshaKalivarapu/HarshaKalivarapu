@@ -2,10 +2,10 @@
 
 **Computer Science student passionate about building software that solves real problems.**
 
-- 💻 **Currently exploring:** Artificial intelligence, computer networking, and full-stack web development.
-- 🛠 **Tinkering with:** All kinds of frameworks and tools it takes to automate my life or build the next hackathon/project idea.
-- 🏗 **Actively building:** Startup products, scalable systems, and experiments that push my technical depth and real-world impact.
-- 🚀 **Always open to:** Collaborating on hackathons, startup ideas, side projects, or absolutely anything in tech!
+- 💻 **Currently Exploring:** Artificial intelligence, computer networking, and full-stack web development.
+- 🛠 **Tinkering With:** All kinds of frameworks and tools it takes to automate my life or build the next hackathon/project idea.
+- 🏗 **Actively Building:** Startup products, scalable systems, and experiments that push my technical depth and real-world impact.
+- 🚀 **Always Open To:** Collaborating on hackathons, startup ideas, side projects, or absolutely anything in tech!
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools:
 
 <div align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -55,7 +55,7 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity:
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaKalivarapu&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
