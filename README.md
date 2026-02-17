@@ -1,6 +1,7 @@
 # Hey there, I’m Harsha 👋
 
-### Computer Science student passionate about building software that solves real problems.
+**Computer Science student passionate about building software that solves real problems.**
+
 - 💻 **Currently exploring:** Artificial intelligence, computer networking, and full-stack web development.
 - 🛠 **Tinkering with:** All kinds of frameworks and tools it takes to automate my life or build the next hackathon/project idea.
 - 🏗 **Actively building:** Startup products, scalable systems, and experiments that push my technical depth and real-world impact.
